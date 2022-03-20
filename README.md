@@ -38,3 +38,7 @@ export default defineConfig({
 // main.ts
 import 'ant-design-vue/dist/antd.css';
 ```
+
+### 代码格式化
+* yarn add eslint -D
+* yarn add eslint-plugin-vue -D
